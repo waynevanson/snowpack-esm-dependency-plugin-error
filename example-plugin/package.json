@@ -1,0 +1,10 @@
+{
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  },
+  "dependencies": {
+    "execa": "^6.0.0"
+  }
+}
